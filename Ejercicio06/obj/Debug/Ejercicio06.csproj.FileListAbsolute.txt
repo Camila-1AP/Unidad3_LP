@@ -1,0 +1,10 @@
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\bin\Debug\Ejercicio06.exe.config
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\bin\Debug\Ejercicio06.exe
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\bin\Debug\Ejercicio06.pdb
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\obj\Debug\Ejercicio06.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\obj\Debug\Ejercicio06.Form1.resources
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\obj\Debug\Ejercicio06.Properties.Resources.resources
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\obj\Debug\Ejercicio06.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\obj\Debug\Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\obj\Debug\Ejercicio06.exe
+C:\Users\camil\OneDrive\Desktop\Ejercicio06\obj\Debug\Ejercicio06.pdb
