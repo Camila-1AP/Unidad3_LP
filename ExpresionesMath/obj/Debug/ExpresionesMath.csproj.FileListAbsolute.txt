@@ -1,0 +1,10 @@
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\bin\Debug\ExpresionesMath.exe.config
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\bin\Debug\ExpresionesMath.exe
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\bin\Debug\ExpresionesMath.pdb
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\obj\Debug\ExpresionesMath.csproj.AssemblyReference.cache
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\obj\Debug\ExpresionesMath.Form1.resources
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\obj\Debug\ExpresionesMath.Properties.Resources.resources
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\obj\Debug\ExpresionesMath.csproj.GenerateResource.cache
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\obj\Debug\ExpresionesMath.csproj.CoreCompileInputs.cache
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\obj\Debug\ExpresionesMath.exe
+C:\Users\camil\Source\Repos\Unidad3_LP\ExpresionesMath\obj\Debug\ExpresionesMath.pdb
